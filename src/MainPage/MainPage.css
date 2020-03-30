@@ -1,0 +1,12 @@
+.wlc {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid black;
+}
+
+
+.taskADD {
+    margin-top: 15px !important;
+}

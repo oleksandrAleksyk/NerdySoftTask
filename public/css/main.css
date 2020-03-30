@@ -1,0 +1,9 @@
+.lgn {
+    margin: 0 auto !important;   
+    margin-top: 10px !important; 
+    width: 45%;
+    padding: 25px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
